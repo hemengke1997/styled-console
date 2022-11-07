@@ -1,7 +1,7 @@
 {
-  "name": "@minko-fe/ts-template",
+  "name": "@minko-fe/styled-console",
   "version": "1.0.0",
-  "description": "a template for typescript project or plugin",
+  "description": "style broswer console",
   "main": "./dist/index.cjs",
   "module": "./dist/index.js",
   "types": "./dist/index.d.ts",
@@ -23,7 +23,7 @@
   "author": "hemengke <https://github.com/hemengke1997>",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hemengke1997/ts-template.git"
+    "url": "git+https://github.com/hemengke1997/styled-console.git"
   },
   "license": "MIT",
   "devDependencies": {
@@ -32,6 +32,7 @@
     "@minko-fe/prettier-config": "^1.2.2",
     "@minko-fe/tsconfig": "^1.2.2",
     "bumpp": "^8.2.1",
+    "csstype": "^3.1.1",
     "eslint": "^8.27.0",
     "prettier": "^2.7.1",
     "tsup": "^6.4.0",

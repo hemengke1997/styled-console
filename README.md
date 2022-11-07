@@ -1,3 +1,3 @@
-# ts-template
+# styled-console
 
-a template for typescript project or plugin
+设计中...
